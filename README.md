@@ -18,8 +18,8 @@ It is designed for practicing **SQL Injection** attacks in a safe environment.
 
 ### Local Run
 ```bash
-git clone https://github.com/<your-username>/vuln-lab-sqli.git
-cd vuln-lab-sqli
+git clone https://github.com/pranavsoni21/vulnerable-lab.git
+cd vulnerable-lab/web
 pip install -r requirements.txt
 python db_init.py
 python app.py
